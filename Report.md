@@ -1,5 +1,5 @@
 # Deep Reinforcement Learning Nanodegree
-# Project 1: Navigation
+# Project 3: Collaboration
 
 This repository includes the code to train two agents collaborating to solve the Tenis environment.
 
